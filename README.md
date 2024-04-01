@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ankit sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit9943" alt="ankit9943" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit9943&label=Profile%20views&color=0e75b6&style=flat" alt="ankit9943" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ankitsh7713153" target="blank"><img src="https://img.shields.io/twitter/follow/ankitsh7713153?logo=twitter&style=for-the-badge" alt="ankitsh7713153" /></a> </p>
 
 - 🌱 I’m currently learning **Backend development**
 
@@ -22,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit9943&show_icons=true&locale=en" alt="ankit9943" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit9943&" alt="ankit9943" /></p>
+
